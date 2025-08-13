@@ -1,63 +1,23 @@
-# Password Security Interview Questions – Task 6
+1.What makes a password strong?
+A strong password is long (12–16+ characters), uses a mix of uppercase/lowercase letters, numbers, and symbols, is unique for each account, and avoids dictionary words or predictable patterns.
 
-## 1. What makes a password strong?
-A strong password is:
-- Long (12–16+ characters)
-- Uses a mix of uppercase/lowercase letters, numbers, and symbols
-- Unique for each account
-- Avoids dictionary words and predictable patterns
+2.What are common password attacks?
+Common attacks include brute force, dictionary attacks, credential stuffing, phishing, keylogging, rainbow tables, password spraying, and social engineering.
 
----
+3.Why is password length important?
+Longer passwords are exponentially harder to crack because they increase the total number of possible combinations an attacker must try.
 
-## 2. What are common password attacks?
-Common password attacks include:
-- **Brute Force** – Trying all possible combinations
-- **Dictionary Attack** – Using common words/password lists
-- **Credential Stuffing** – Using stolen credentials from breaches
-- **Phishing** – Tricking users into revealing credentials
-- **Keylogging** – Recording keystrokes to capture passwords
-- **Rainbow Table Attack** – Using precomputed hash tables
-- **Password Spraying** – Trying a few common passwords across accounts
-- **Social Engineering** – Manipulating people into revealing passwords
+4.What is a dictionary attack?
+An attack that tries passwords from a list of common words, passwords, or leaked credentials to quickly guess a password.
 
----
+5.What is multi-factor authentication?
+A security method requiring two or more verification steps, such as a password plus a one-time code sent to your phone, making unauthorized access harder.
 
-## 3. Why is password length important?
-Longer passwords are exponentially harder to crack because they increase the total number of possible character combinations, making brute force attacks less effective.
+6.How do password managers help?
+They store complex, unique passwords securely and auto-fill them, allowing you to avoid weak or reused passwords without having to remember them.
 
----
+7.What are passphrases?
+Long sequences of random or unrelated words (often with symbols or numbers) that are easier to remember but still highly secure. Example: Blue$Tiger*Runs2025.
 
-## 4. What is a dictionary attack?
-A method where attackers try passwords from a pre-made list of common words, passwords, or leaked credentials to guess a password quickly.
-
----
-
-## 5. What is multi-factor authentication?
-A security method requiring two or more verification steps, such as:
-- Password + one-time code sent to a phone
-- Password + fingerprint
-This makes unauthorized access much harder.
-
----
-
-## 6. How do password managers help?
-Password managers:
-- Store complex, unique passwords securely
-- Auto-fill login forms
-- Help avoid weak or reused passwords
-- Encrypt stored passwords for safety
-
----
-
-## 7. What are passphrases?
-Passphrases are long sequences of random or unrelated words, often with numbers or symbols, that are easier to remember but still secure.  
-**Example:** `Blue$Tiger*Runs2025`
-
----
-
-## 8. What are common mistakes in password creation?
-- Using short passwords
-- Using common words or patterns (`123456`, `password`)
-- Using personal info (birthdays, names)
-- Reusing the same password across multiple accounts
-- Avoiding symbols and complexity
+8.What are common mistakes in password creation?
+Using short passwords, common words, personal details (birthdays, names), predictable patterns, or reusing the same password for multiple accounts.
